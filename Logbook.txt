@@ -2,8 +2,8 @@
 Nama kelompok 	: Newcomers
 
 Judul Topik 	:PSIKOPAT? 
-Alamat GitHub	: https://github.com/MrLevi
-Alamat Trello	:https://trello.com/Mrlevi
+Alamat GitHub	: https://github.com/Novayanti/repo
+Alamat Trello	:https://trello.com/Novayanti/repo
 
 Anggota 1	:
 	Nama	: Iqbal Fahlevi
@@ -24,7 +24,7 @@ Anggota 3	:
 SPRINT
 ------
 Sprint 1		:
-Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
+Tgl. Pelaksanaan	: 26/5/14 - 28/5/14
 Scrummaster		: Iqbal Fahlevi (121113070)
 
 
@@ -33,16 +33,17 @@ Progress Harian
 Tgl : 26/5/14
 Daily Scrum
 
-M Iqbal Fahlevi			:
+Iqbal Fahlevi			:
 1. Hari ini saya memulai instalasi software Node.js dan Git
 
 Santy Andriani	
-1. Hari ini saya memulai instalasi software pendukung presentasi berupa : Node.js, Git
+2. Hari ini saya memulai instalasi software pendukung presentasi berupa : Node.js, Git
 
 Katerine Silaban			:
-1. Hari ini saya mulai menginstal sebuah software pendukung presentasi saja yaitu Git
+3. Hari ini saya mulai menginstal sebuah software pendukung presentasi saja yaitu Git
+
 Novayanti Nainggolan
-1. Hari ini saya mulai menginstal software pendukung presentasi yaitu Git dan Bespoke.js
+4. Hari ini saya mulai menginstal software pendukung presentasi yaitu Git dan Bespoke.js
 ===============================================================================================
 Progress Harian
 ---------------
@@ -51,19 +52,46 @@ Daily Scrum
 
 Iqbal Fahlevi
 	1. Semalam saya menginstall pendukung presentasi
-	2. Hari ini saya mencari data berupa latar belakan Psikopat
+	2. Hari ini saya mencari data berupa latarbelakang Psikopat
 	3. Kendala yang dihadapi belum ada
  
 Santy Andriani
 	1. Semalam saya menginstal presentasi github dan bespoke
 	2. Hari ini saya mencari data Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
 	3. Kendala yang saya  hadapi belum ada
+	
 Katerine Silaban
 	1. Semalam saya mengerjakan penginstalan github,bespoke, node.js
 	2. Hari ini saya mencari data berupa menghidari seorang psikopat
 	3. Tidak ada kendala sampai saat ini
+	
 Novayanti Nainggolan
 	1. Semalam saya melakukan penginstalan github, node.js
 	2. Hari ini saya mencari data tentang Tahapan diagnosa dan gejala Psikopat
 	3. Belum ada kendala yang saya temui
+================================================================================================================================
+Progress Harian
+---------------
+Tgl : 28/5/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mencari data berupa latarbelakang psikopat
+	2. Hari ini saya push latarbelakang psikopat
+	3. Kendala yang saya hadapi menemukan beberapa error saat mem-push
+ 
+Santy Andriani
+	1. Semalam saya mencari data Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
+	2. Hari ini saya push Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
+	3. Kendala yang saya hadapi error saat push data
+	
+Katerine Silaban
+	1. Semalam saya mencari data berupa menghindari seorang psikopat
+	2. Hari ini saya push cara menghindari seorang psikopat
+	3. menemukan kendala di bagian push data
+	
+Novayanti Nainggolan
+	1. Semalam saya mencari data tentang Tahapan diagnosa dan gejala Psikopat
+	2. Hari ini saya push tahapan diagnosa dan gejala psikopat
+	3. kendala yang dihadapi error pada saat push data ke repository
 ================================================================================================================================
